@@ -12,7 +12,9 @@ A Flutter project by Dheeraj Reddy Mallapu.
 - run 'flutter pub get' in the terminal from the project directory to get dependencies
 - connect your android device
 - run 'flutter run' to start building the app
+
   OR
+
 - Install apk file from latest github release
 
 ## Packages used
@@ -21,3 +23,5 @@ A Flutter project by Dheeraj Reddy Mallapu.
 - cached_network_image: for caching images
 - http: to fetch data from an endpoint
 - intl: to format numbers
+
+## Added a video
