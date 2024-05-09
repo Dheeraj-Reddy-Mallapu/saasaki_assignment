@@ -25,3 +25,10 @@ A Flutter project by Dheeraj Reddy Mallapu.
 - intl: to format numbers
 
 ## Added a video
+
+- https://github.com/Dheeraj-Reddy-Mallapu/saasaki_assignment/blob/main/screen-record-showcase.mp4
+- Forgot to show pull to refresh (fetch the data) in the video
+
+## Apk
+
+- https://github.com/Dheeraj-Reddy-Mallapu/saasaki_assignment/releases/download/v0.1.0/Saasaki_Assignment.apk
